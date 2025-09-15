@@ -5,6 +5,8 @@ app = Ursina()
 player = FirstPersonController()
 Sky()
 
+
+# added a comment
 boxes = []
 for i in range(50):
   for j in range(50):
